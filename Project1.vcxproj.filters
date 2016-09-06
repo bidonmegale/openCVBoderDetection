@@ -21,5 +21,11 @@
     <ClCompile Include="ImagemComprovante.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CorrigeIluminacao.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Denoising.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -125,6 +125,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CameraFilmar.cpp" />
+    <ClCompile Include="CorrigeIluminacao.cpp" />
+    <ClCompile Include="Denoising.cpp" />
     <ClCompile Include="ImagemComprovante.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

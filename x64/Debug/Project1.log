@@ -1,7 +1,5 @@
 ﻿  ImagemComprovante.cpp
-c:\users\abdon\documents\visual studio 2015\projects\project1\project1\imagemcomprovante.cpp(56): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
-  c:\users\abdon\documents\visual studio 2015\projects\project1\project1\imagemcomprovante.cpp(56): note: consider using '%zd' in the format string
-c:\users\abdon\documents\visual studio 2015\projects\project1\project1\imagemcomprovante.cpp(72): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
-  c:\users\abdon\documents\visual studio 2015\projects\project1\project1\imagemcomprovante.cpp(72): note: consider using '%zd' in the format string
+c:\users\abdon\documents\visual studio 2015\projects\project1\project1\imagemcomprovante.cpp(90): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  c:\users\abdon\documents\visual studio 2015\projects\project1\project1\imagemcomprovante.cpp(90): note: consider using '%zd' in the format string
   Project1.vcxproj -> C:\Users\Abdon\Documents\Visual Studio 2015\Projects\Project1\x64\Debug\Project1.exe
   Project1.vcxproj -> C:\Users\Abdon\Documents\Visual Studio 2015\Projects\Project1\x64\Debug\Project1.pdb (Partial PDB)
